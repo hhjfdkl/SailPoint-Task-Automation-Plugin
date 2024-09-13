@@ -1,3 +1,5 @@
+This readme document contains my notes as I created the plugin
+
 # TASK AUTOMATION PLUGIN v1.0
 The user will be able to put in a task name that the plugin will execute every 15 minutes (default)
 - Tasks will be executed one at a time, cycling through the database
